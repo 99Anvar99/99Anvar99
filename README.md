@@ -6,4 +6,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=99Anvar99&show_icons=true&theme=dark&count_private=true" alt="99Anvar99" /></p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=99Anvar99&theme=dark&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&card_width=500)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=99Anvar99&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
