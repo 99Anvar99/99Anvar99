@@ -41,22 +41,6 @@
   </a>
 </p>
 
+https://github-stats-alpha.vercel.app/api?username=99Anvar99&cc=000&tc=fff&ic=fff&bc=000
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=99Anvar99&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-<div style="display: flex; align-items: center;">
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=99Anvar99&show_icons=true&theme=dark"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=99Anvar99&show_icons=true"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api?username=99Anvar99&show_icons=true" alt="GitHub Stats" />
-  </picture>
-
-  <a href="https://github.com/anuraghazra/github-readme-stats" style="margin-left: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=99Anvar99&theme=dark&layout=donut" alt="Top Languages" />
-  </a>
-</div>
