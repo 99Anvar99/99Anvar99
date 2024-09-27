@@ -44,3 +44,5 @@
 ![GitHub Stats](https://github-stats-alpha.vercel.app/api?username=99Anvar99&cc=000&tc=fff&ic=fff&bc=000)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=99Anvar99&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+[![Discord](https://img.shields.io/badge/Discord-mister9982-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
