@@ -42,7 +42,8 @@
 </p>
 
 ![GitHub Stats](https://github-stats-alpha.vercel.app/api?username=99Anvar99&cc=000&tc=fff&ic=fff&bc=000)
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=99Anvar99&theme=react&show_icons=true&hide_border=true&layout=compact)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=99Anvar99&theme=react&show_icons=true&hide_border=true&count_private=true)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=99Anvar99)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Discord](https://img.shields.io/badge/Discord-mister9982-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
