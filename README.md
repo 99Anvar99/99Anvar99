@@ -41,10 +41,8 @@
   </a>
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=99Anvar99&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)|
-
 ![GitHub Stats](https://github-stats-alpha.vercel.app/api?username=99Anvar99&cc=000&tc=fff&ic=fff&bc=000)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=99Anvar99&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![trophy](https://github-profile-trophy.vercel.app/?username=99Anvar99&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=99Anvar99&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 [![Discord](https://img.shields.io/badge/Discord-mister9982-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
