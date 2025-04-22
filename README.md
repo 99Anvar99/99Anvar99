@@ -1,6 +1,3 @@
-<h1 align="center">Hi 👋, I'm Anvar</h1>
-<h3 align="center">A passionate full stack web and software developer</h3>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
