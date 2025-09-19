@@ -11,6 +11,6 @@
 
 <p align="left">
   
-[![Discord](https://img.shields.io/badge/Discord-mister9982-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
+[![Discord](https://discord.c99.nl/widget/theme-3/1210636184477245463.png)](https://discord.com)
   
 </p>
