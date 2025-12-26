@@ -100,22 +100,3 @@
 </table>
 
 </div>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-stats-alpha.vercel.app/api?username=99Anvar99&cc=000&tc=fff&ic=fff&bc=000" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=99Anvar99&theme=react&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
-</p>
-
----
-
-## 🌐 Connect with Me
-
-<p align="center">
-  <a href="https://discord.com" target="_blank">
-    <img src="https://discord.c99.nl/widget/theme-3/1210636184477245463.png" alt="Discord" />
-  </a>
-</p>
