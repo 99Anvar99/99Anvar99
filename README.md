@@ -22,6 +22,12 @@ Building clean, useful software — one commit at a time.
 <strong>Tools</strong><br/>
 <img src="https://skillicons.dev/icons?i=github,git,vscode,visualstudio&theme=light" alt="GitHub, Git, VS Code, Visual Studio" />
 
+<!-- Place before the existing Arctic Navy footer -->
+<h3 align="center">🏙️ 3D Contributions</h3>
+<div align="center">
+  <img width="100%" alt="3D GitHub contribution skyline" src="https://raw.githubusercontent.com/99Anvar99/99Anvar99/main/profile-3d-contrib/profile-night-view.svg" />
+</div>
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F3A,40:8293A8,75:D1D5DB,100:FFFFFF&height=100&section=footer" alt="Arctic Navy footer waves" />
 
 </div>
