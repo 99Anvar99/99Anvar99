@@ -22,10 +22,6 @@ Building clean, useful software — one commit at a time.
 <strong>Tools</strong><br/>
 <img src="https://skillicons.dev/icons?i=github,git,vscode,visualstudio&theme=light" alt="GitHub, Git, VS Code, Visual Studio" />
 
-<h3>📊 GitHub Contributions</h3>
-
-<a href="https://github.com/99Anvar99?tab=overview"><img width="480" src="https://ghstats.dev/api/card?username=99Anvar99&size=compact&bg=0B1F3A&text=E2E8F0&title_color=FFFFFF&icon_color=94A3B8&border_color=274C77&show_ring=false" alt="GitHub contribution statistics" /></a>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F3A,40:8293A8,75:D1D5DB,100:FFFFFF&height=100&section=footer" alt="Arctic Navy footer waves" />
 
 </div>
