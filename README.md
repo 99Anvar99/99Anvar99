@@ -1,102 +1,31 @@
-# 🚀 Tech Stack & Tools
-
-### 🛠️ Languages, Frameworks & Tools
-
 <div align="center">
 
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
-      <br>React
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" />
-      <br>C++
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
-      <br>MySQL
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
-      <br>TypeScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="65" height="65" />
-      <br>C#
-    </td>
-     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=visualstudio" alt="VisualStudio" width="65" height="65" />
-      <br>VS 2022
-    </td>
-  </tr>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,35:D1D5DB,65:8293A8,100:0B1F3A&height=130&section=header" alt="Arctic Navy waves" />
 
-  <tr>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
-      <br>GitHub
-    </td>
-    <td align="center" width="96">
-      <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-      <br>HTML5
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
-      <br>CSS
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
-      <br>Bootstrap
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
-      <br>Tailwind
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jQuery" />
-      <br>jQuery
-    </td>
-  </tr>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3200&pause=1200&color=527AA4&center=true&vCenter=true&width=430&height=35&lines=Build.+Learn.+Improve.;Code.+Create.+Repeat." alt="Build. Learn. Improve." />
 
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-      <br>MongoDB
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
-      <br>Node.js
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
-      <br>PHP
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
-      <br>VS Code
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=sass" width="48" height="48" alt="Sass" />
-      <br>Sass
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" alt="GraphQL" />
-      <br>GraphQL
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
-      <br>PostgreSQL
-    </td>
-  </tr>
-</table>
+Building clean, useful software — one commit at a time.
+
+<img src="https://komarev.com/ghpvc/?username=99Anvar99&style=flat-square&label=Profile+Views&color=274C77" alt="Profile views" />
+
+<h3>⚙️ Tech Stack</h3>
+
+<strong>Languages</strong><br/>
+<img src="https://skillicons.dev/icons?i=js,ts,cpp,cs,php&theme=light" alt="JavaScript, TypeScript, C++, C#, PHP" />
+
+<strong>Frontend</strong><br/>
+<img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,tailwind,sass,jquery&theme=light" alt="React, HTML, CSS, Bootstrap, Tailwind, Sass, jQuery" />
+
+<strong>Backend & Databases</strong><br/>
+<img src="https://skillicons.dev/icons?i=nodejs,graphql,mysql,mongodb,postgres&theme=light" alt="Node.js, GraphQL, MySQL, MongoDB, PostgreSQL" />
+
+<strong>Tools</strong><br/>
+<img src="https://skillicons.dev/icons?i=github,git,vscode,visualstudio&theme=light" alt="GitHub, Git, VS Code, Visual Studio" />
+
+<h3>📊 GitHub Contributions</h3>
+
+<a href="https://github.com/99Anvar99?tab=overview"><img width="480" src="https://ghstats.dev/api/card?username=99Anvar99&size=compact&bg=0B1F3A&text=E2E8F0&title_color=FFFFFF&icon_color=94A3B8&border_color=274C77&show_ring=false" alt="GitHub contribution statistics" /></a>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F3A,40:8293A8,75:D1D5DB,100:FFFFFF&height=100&section=footer" alt="Arctic Navy footer waves" />
 
 </div>
